@@ -4,3 +4,6 @@
 - Masuk ke branch gcloud : git checkout gcloud
 - Deploy ke Web preview : dev_appserver/py --php_executable_path=/usr/bin/php-cgi $PWD 
 nyoba
+
+A=~/src/maskurepoo/maskurepoo
+: git clone https://github.com/sysaputra/Youtube-Converter.git $A
